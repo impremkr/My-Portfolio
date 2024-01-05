@@ -1,0 +1,1286 @@
+ @media only screen and (max-width: 1200px) and (min-width: 1025px){
+
+  /*  .nav{
+        width: 90%;
+        height: 75px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin: 0 auto;
+    }
+
+    .logo{
+        font-size: 15px;
+    }
+
+    .list a{
+        font-size: 17px;
+        margin-right: 20px;
+    } */
+
+    /* Home Page   */
+
+    .h-content{
+        width: 85%;
+        height: 500px;
+        margin: 0 auto;
+    }
+
+    .h-content-left{
+        width: 60%;
+        margin-top: 130px;
+    }
+
+    .h-content-left .namste{
+        font-size: 20px;
+    }
+
+    .h-content-left .name{
+        font-size: 25px;
+    }
+
+    .profession{
+        font-size: 35px;
+    }
+
+    .paragraph{
+        font-size: 20px;
+        text-align: justify;
+    }
+
+    .social-media{
+        margin-top: 25px;
+    }
+
+    .icon{
+        width: 17px;
+        font-size: 17px;
+        padding: 7px;
+        margin-right: 12px;
+    }
+
+    .h-content-right{
+        width: 36%;
+        margin-top: 60px;
+    }
+
+    .h-content-right img{
+        width: 100%;
+        height: 375px;
+    }
+
+    
+    /* About Page  */
+
+    .about{
+        margin-top: 1px;
+    }
+
+    .abt-content{
+        width: 85%;
+        height: 500px;
+        margin: 0 auto;
+    }
+
+    .abt-content-left{
+        width: 36%;
+        margin-top: 60px;
+    }
+
+    .abt-content-left img{
+        width: 100%;
+        height: 375px;
+    }
+
+    .abt-content-right{
+        margin-top: 130px;
+    }
+
+    .abt-heading{
+        font-size: 35px;
+    }
+
+    .details{
+        font-size: 20px;
+        text-align: justify;
+    }
+
+    .con-details{
+        font-size: 17px;
+    }
+
+    .fa-phone{
+        width: 12px;
+        font-size: 12px;
+    }
+
+    .fa-envelope{
+        width: 12px;
+        font-size: 12px;
+    }
+
+
+     /* Skill Page */
+
+     .skill{
+        margin-top: 1px;
+    }
+
+    .skill-content{
+        width: 85%;
+        height: 500px;
+        margin: 0 auto;
+        padding: 0;
+    }
+
+    .skill-content-left{
+        width: 40%;
+        margin-top: 60px;
+    }
+
+    .skill-content-left img{
+        width: 100%;
+        height: 375px;
+    }
+
+    .skill-content-right{
+        width: 55%;
+        margin-top: 90px;
+    }
+
+    .skill-heading{
+        font-size: 35px;
+    }
+
+    .skill-details{
+        padding-top: 12px;
+        font-size: 20px;
+        text-align: justify;
+    }
+
+    .skill-content-right-lower{
+        width: 100%;
+        height: 25px;
+        margin: 10px auto;
+    }
+
+    .skill-name{
+        font-size: 13px;
+        margin-top: 5px;
+    }
+
+    .skill-percentage{
+        font-size: 13px;
+        margin-top: 5px;
+    }
+
+    #html{
+        width: 100%;
+        height: 25px;
+    }
+
+    #css{
+        width: 90%;
+        height: 25px;
+    }
+
+    #js{
+        width: 60%;
+        height: 25px;
+    }
+
+    #bs{
+        width: 80%;
+        height: 25px;
+    }
+
+    #php{
+        width: 50%;
+        height: 25px;
+    }
+
+     /* service Page  */
+
+    .service{
+        margin-top: 1px;
+    }
+
+    .ser-content{
+        width: 100%;
+        height: 300px;
+    }
+
+    .ser-items{
+        width: 90%;
+        height: 200px;
+        margin: 0 auto;
+    }
+
+    .ser-details{
+        width: 31%;
+        display: inline-block;
+        padding-top: 10px;
+        margin: 1%;
+    }
+
+    .ser-paragraph{
+        padding: 5%;
+        text-align: justify;
+    }
+
+
+     /* Message Page */
+
+    .message{
+        margin-top: 1px;
+    }
+
+    .mess-content{
+        width: 85%;
+        height: 590px;
+        margin: 0 auto;
+    }
+
+    .form{
+        width: 80%;
+    }
+
+    input[type="text"]{
+        /* width: 42%; */
+        height: 40px;
+    }
+
+    input[type="text1"]{
+        /* width: 42%; */
+        height: 40px;
+    }
+
+    input[type="mail"]{
+        height: 40px;
+    }
+
+    input[type="contact"]{
+        height: 40px;
+    }
+
+    textarea{
+        width: 90%;
+        height: 200px;
+    }
+
+
+     /* Copyright Page */
+
+    .footer-1{
+        width: 90%;
+        margin: auto;
+    }
+
+    .copyright{
+        width: 70%;
+        font-size: 20px;
+    }
+
+    .follow-me{
+        width: 20%;
+        
+    }
+
+    .social-icon{
+        width: 20px;
+        font-size: 20px;
+    }
+
+
+
+} 
+
+
+@media only screen and (max-width: 1024px) and (min-width: 769px){
+
+    .nav{
+        width: 90%;
+        height: 75px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin: 0 auto;
+    }
+
+    .logo{
+        font-size: 15px;
+    }
+
+    .list a{
+        font-size: 17px;
+        margin-right: 20px;
+    }
+
+    /* Home Page  */
+
+    .h-content{
+        width: 85%;
+        height: 450px;
+        margin: 0 auto;
+    }
+
+    .h-content-left{
+        width: 60%;
+        margin-top: 120px;
+    }
+
+    .h-content-left .namste{
+        font-size: 17px;
+    }
+
+    .h-content-left .name{
+        font-size: 22px;
+    }
+
+    .profession{
+        font-size: 28px;
+    }
+
+    .paragraph{
+        font-size: 17px;
+        text-align: justify;
+    }
+
+    .social-media{
+        margin-top: 25px;
+    }
+
+    .icon{
+        width: 17px;
+        font-size: 17px;
+        padding: 7px;
+        margin-right: 12px;
+    }
+
+    .h-content-right{
+        width: 36%;
+        margin-top: 70px;
+    }
+
+    .h-content-right img{
+        width: 100%;
+        height: 300px;
+    }
+
+    
+    /* About Page  */
+
+    .about{
+        margin-top: 1px;
+    }
+
+    .abt-content{
+        width: 85%;
+        height: 450px;
+        margin: 0 auto;
+    }
+
+    .abt-content-left{
+        width: 36%;
+        margin-top: 70px;
+    }
+
+    .abt-content-left img{
+        width: 100%;
+        height: 300px;
+    }
+
+    .abt-content-right{
+        margin-top: 115px;
+    }
+
+    .abt-heading{
+        font-size: 28px;
+    }
+
+    .details{
+        font-size: 17px;
+        text-align: justify;
+    }
+
+    .con-details{
+        font-size: 15px;
+    }
+
+    .fa-phone{
+        width: 10px;
+        font-size: 10px;
+    }
+
+    .fa-envelope{
+        width: 10px;
+        font-size: 10px;
+    }
+
+
+     /* Skill Page  */
+
+     .skill{
+        margin-top: 1px;
+    }
+
+    .skill-content{
+        width: 85%;
+        height: 425px;
+        margin: 0 auto;
+        padding: 0;
+    }
+
+    .skill-content-left{
+        width: 40%;
+        margin-top: 60px;
+    }
+
+    .skill-content-left img{
+        width: 100%;
+        height: 300px;
+    }
+
+    .skill-content-right{
+        width: 55%;
+        margin-top: 90px;
+    }
+
+    .skill-heading{
+        font-size: 28px;
+    }
+
+    .skill-details{
+        padding-top: 12px;
+        font-size: 17px;
+        text-align: justify;
+    }
+
+    .skill-content-right-lower{
+        width: 100%;
+        height: 16px;
+        margin: 10px auto;
+    }
+
+    .skill-name{
+        font-size: 10px;
+        margin-top: 3px;
+    }
+
+    .skill-percentage{
+        font-size: 10px;
+        margin-top: 3px;
+    }
+
+    #html{
+        width: 100%;
+        height: 16px;
+    }
+
+    #css{
+        width: 90%;
+        height: 16px;
+    }
+
+    #js{
+        width: 60%;
+        height: 16px;
+    }
+
+    #bs{
+        width: 80%;
+        height: 16px;
+    }
+
+    #php{
+        width: 50%;
+        height: 16px;
+    }
+
+    /* service Page  */
+
+    .service{
+        margin-top: 1px;
+    }
+
+    .ser-content{
+        width: 100%;
+        height: 325px;
+    }
+
+    .ser-items{
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .ser-details{
+        width: 31%;
+        display: inline-block;
+        padding-top: 20px;
+        margin: 1%;
+    }
+
+    .ser-paragraph{
+        padding-top: 10px;
+        text-align: justify;
+    }
+
+
+    /* Message Page  */
+
+    .message{
+        margin-top: 1px;
+    }
+
+    .mess-content{
+        width: 85%;
+        height: 590px;
+        margin: 0 auto;
+    }
+
+    .form{
+        width: 90%;
+    }
+
+    input[type="text"]{
+        height: 40px;
+    }
+
+    input[type="text1"]{
+        height: 40px;
+    }
+
+    input[type="mail"]{
+        height: 40px;
+    }
+
+    input[type="contact"]{
+        height: 40px;
+    }
+
+    textarea{
+        width: 90%;
+        height: 200px;
+    }
+
+
+    /* Copyright Page  */
+
+    .footer-1{
+        width: 90%;
+        margin: auto;
+    }
+
+    .copyright{
+        width: 80%;
+        font-size: 20px;
+    }
+
+    .follow-me{
+        width: 20%;
+    }
+
+    .social-icon{
+        width: 20px;
+        font-size: 20px;
+    }
+
+
+
+}
+
+
+/* Tablet Media Query */
+
+@media only screen and (max-width: 768px) and (min-width: 600px){
+
+    .nav{
+        width: 90%;
+        height: 75px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin: 0 auto;
+    }
+
+    .logo{
+        font-size: 15px;
+    }
+
+    .list a{
+        font-size: 17px;
+        margin-right: 20px;
+    }
+
+    /* Home Page  */
+
+    .h-content{
+        width: 90%;
+        height: 400px;
+        margin: 0 auto;
+    }
+
+    .h-content-left{
+        width: 60%;
+        margin-top: 100px;
+    }
+
+    .h-content-left .namste{
+        font-size: 17px;
+    }
+
+    .h-content-left .name{
+        font-size: 22px;
+    }
+
+    .profession{
+        font-size: 28px;
+    }
+
+    .paragraph{
+        font-size: 17px;
+        text-align: justify;
+    }
+
+    .social-media{
+        margin-top: 25px;
+    }
+
+    .icon{
+        width: 17px;
+        font-size: 17px;
+        padding: 7px;
+        margin-right: 12px;
+    }
+
+    .h-content-right{
+        width: 36%;
+        margin-top: 50px;
+    }
+
+    .h-content-right img{
+        width: 100%;
+        height: 300px;
+    }
+
+
+    /* About Page  */
+
+    .about{
+        margin-top: 1px;
+    }
+
+    .abt-content{
+        width: 90%;
+        height: 400px;
+        margin: 0 auto;
+    }
+
+    .abt-content-left{
+        width: 36%;
+        margin-top: 48px;
+    }
+
+    .abt-content-left img{
+        width: 100%;
+        height: 300px;
+    }
+
+    .abt-content-right{
+        margin-top: 80px;
+    }
+
+    .abt-heading{
+        font-size: 28px;
+    }
+
+    .details{
+        font-size: 17px;
+        text-align: justify;
+    }
+
+    .con-details{
+        font-size: 15px;
+    }
+
+    .fa-phone{
+        width: 10px;
+        font-size: 10px;
+    }
+
+    .fa-envelope{
+        width: 10px;
+        font-size: 10px;
+    }
+
+    /* Skill Page  */
+
+    .skill{
+        margin-top: 1px;
+    }
+
+    .skill-content{
+        width: 90%;
+        height: 400px;
+        margin: 0 auto;
+        padding: 0;
+    }
+
+    .skill-content-left{
+        width: 40%;
+        margin-top: 50px;
+    }
+
+    .skill-content-left img{
+        width: 100%;
+        height: 300px;
+    }
+
+    .skill-content-right{
+        width: 55%;
+        margin-top: 70px;
+    }
+
+    .skill-heading{
+        font-size: 28px;
+    }
+
+    .skill-details{
+        padding-top: 12px;
+        font-size: 17px;
+        text-align: justify;
+    }
+
+    .skill-content-right-lower{
+        width: 100%;
+        height: 16px;
+        margin: 10px auto;
+    }
+
+    .skill-name{
+        font-size: 10px;
+        margin-top: 3px;
+    }
+
+    .skill-percentage{
+        font-size: 10px;
+        margin-top: 3px;
+    }
+
+    #html{
+        width: 100%;
+        height: 16px;
+    }
+
+    #css{
+        width: 90%;
+        height: 16px;
+    }
+
+    #js{
+        width: 60%;
+        height: 16px;
+    }
+
+    #bs{
+        width: 80%;
+        height: 16px;
+    }
+
+    #php{
+        width: 50%;
+        height: 16px;
+    }
+
+    /* service Page  */
+
+    .service{
+        margin-top: 1px;
+    }
+
+    .ser-content{
+        width: 100%;
+        height: 370px;
+    }
+
+    .ser-items{
+        width: 90%;
+        margin: 0 auto;
+    }
+
+    .ser-details{
+        width: 30%;
+        display: inline-block;
+        padding-top: 25px;
+        margin: 1.3%;
+    }
+
+    .ser-paragraph{
+        padding-top: 10px;
+        text-align: justify;
+    }
+
+
+    /* Message Page  */
+
+    .message{
+        margin-top: 1px;
+    }
+
+    .mess-content{
+        width: 90%;
+        height: 575px;
+        margin: 0 auto;
+    }
+
+    .form{
+        width: 90%;
+    }
+
+    input[type="text"]{
+        height: 40px;
+    }
+
+    input[type="text1"]{
+        height: 40px;
+    }
+
+    input[type="mail"]{
+        height: 40px;
+    }
+
+    input[type="contact"]{
+        height: 40px;
+    }
+
+    textarea{
+        width: 90%;
+        height: 200px;
+    }
+
+
+    /* Copyright Page  */
+
+    .footer-1{
+        width: 90%;
+        margin: auto;
+    }
+
+    .copyright{
+        width: 70%;
+        font-size: 18px;
+    }
+
+    .follow-me{
+        width: 26%;
+    }
+
+    .social-icon{
+        width: 20px;
+        font-size: 17px;
+    }
+ 
+    
+}
+
+
+
+@media only screen and (max-width: 500px) and (min-width: 300px){
+
+    .header{
+        width: 100%;
+        height: auto;
+    }
+
+    .nav{
+        width: 85%;
+        height: 60px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin: 0 auto;
+    }
+    
+    .logo{
+        font-size: 11px;
+    }
+
+    .drawer-icon{
+        display: inline-block;
+        padding-right: 7px;
+    }
+
+    #icon{
+        display: block;
+    }
+
+    ul{
+        position: fixed;
+        width: 50%;
+        height: 100vh;
+        background: #2f3640;
+        top: 60px;
+        left: -100%;
+        text-align: left;
+        transition: all .5s;
+    }
+
+    .list a{
+        height: 30px;
+        display: block;
+        font-size: 15px;
+        padding-top: 15px;
+        margin-right: 0;
+        padding-left: 15px;
+    }
+
+    .list a:hover{
+        color: #008080;
+        background-color: rgba(128, 128, 128, 0.082);
+        border-bottom: 1px solid rgba(255, 255, 255, 0.279);
+    }
+
+    ul.show{
+        left: 0;
+    }
+
+
+    /* Home Page  */
+
+
+    .h-content{
+        width: 90%;
+        height: 600px;
+    }
+
+    .h-content-left{
+        width: 100%;
+        margin: 20px auto;
+        margin-bottom: 0;
+    }
+    
+    .h-content-left .namste{
+        color: gray;
+        font-size: 16px;
+    }
+
+    .h-content-left .name{
+        color: white;
+        font-family: Arial, Helvetica, sans-serif;
+        font: bold;
+        font-size: 21px;
+    }
+
+    .paragraph{
+        width: 100%;
+        text-align: justify;
+        font-size: 16px;
+    }
+
+    .social-media{
+        margin-top: 20px;
+    }
+
+    .icon{
+        display: none;
+        /* width: 14px;
+        text-align: center;
+        font-size: 14px;
+        padding: 7px;
+        border-radius: 50%;
+        margin-right: 15px;
+        cursor: pointer; */
+    }
+
+    .h-content-right{
+        width: 100%;
+        margin-top: 10px;
+    }
+    
+    .h-content-right img{
+        width: 100%;
+        height: 350px;
+        border-radius: 5px;
+        box-shadow: 0 0 10px black;
+    }
+
+
+    /* About Page  */
+
+
+    .about{
+        margin-top: 0;
+    }
+
+    .abt-content{
+        width: 90%;
+        height: 650px;
+        margin: auto;
+    }
+
+    .abt-content-left{
+        width: 100%;
+        margin-top: 30px;
+    }
+
+    .abt-content-left img{
+        width: 100%;
+        height: 350px;
+    }
+
+    .abt-content-right{
+        width: 100%;
+        margin-top: 10px;
+    }
+
+    .abt-heading{
+        font-size: 30px;
+    }
+
+    .details{
+        width: 100%;
+        text-align: justify;
+        font-size: 16px;
+    }
+
+    .contact{
+        padding-top: 20px;
+    }
+    
+    .con-details{
+        color: white;
+        font-size: 15px;
+    }
+    
+    .fa-phone{
+        width: 10px;
+        text-align: center;
+        font-size: 10px;
+        padding: 8px;
+        border-radius: 50%;
+        margin-right: 10px;
+        color: aliceblue;
+        background-color: green;
+    }
+    
+    .fa-envelope{
+        width: 10px;
+        text-align: center;
+        font-size: 10px;
+        padding: 8px;
+        border-radius: 50%;
+        margin-top: 8px;
+        margin-right: 10px;
+        color: red;
+        background-color: white;
+    }
+    
+
+    /* Skill Page  */
+
+    .skill{
+        margin-top: 0;
+    }
+
+    .skill-content{
+        width: 90%;
+        height: 690px;
+        margin: 0 auto;
+        padding-top: 0;
+    }
+
+    .skill-content-left{
+        width: 100%;
+        margin-top: 40px;
+    }
+
+    .skill-content-left img{
+        width: 100%;
+        height: 300px;
+    }
+
+    .skill-content-right{
+        width: 100%;
+        margin-top: 15px;
+    }
+
+    .skill-heading{
+        font-size: 28px;
+    }
+
+    .skill-details{
+        padding-top: 15px;
+        font-size: 16px;
+        text-align: justify;
+    }
+
+    .skill-content-right-lower{
+        width: 100%;
+        height: 20px;
+        margin: 12px auto;
+    }
+
+    .skill-name{
+        font-size: 11px;
+        align-items: center;
+    }
+
+    .skill-percentage{
+        font-size: 11px;
+        align-items: center;
+    }
+
+    #html{
+        width: 100%;
+        height: 20px;
+    }
+
+    #css{
+        width: 90%;
+        height: 20px;
+    }
+
+    #js{
+        width: 60%;
+        height: 20px;
+    }
+
+    #bs{
+        width: 80%;
+        height: 20px;
+    }
+
+    #php{
+        width: 50%;
+        height: 20px;
+    }
+
+
+    /* Service Page  */
+
+    .service{
+        margin-top: 0;
+    }
+
+    .ser-content{
+        width: 100%;
+        height: 675px;
+    }
+
+    .ser-heading{
+        padding-top: 25px;
+    }
+
+    .ser-items{
+        width: 100%;
+    }
+
+    .ser-details{
+        width: 90%;
+        height: 160px;
+        padding-top: 25px;
+    }
+
+    .ser-paragraph{
+        margin: 0;
+        padding-top: 10px;
+    }
+
+
+    /* Message Page */
+
+    .message{
+        margin-top: 0;
+    }
+
+    .mess-content{
+        width: 100%;
+        height: 580px;
+    }
+
+    .form{
+        width: 90%;
+        margin: auto;
+    }
+
+    input[type="text"]{
+        width: 90%;
+        height: 40px;
+        float: none;
+    }
+
+    input[type="text1"]{
+        width: 90%;
+        height: 40px;
+        float: none;
+        margin-top: 7px;
+    }
+
+    input[type="mail"]{
+        width: 90%;
+        height: 40px;
+        float: none;
+        margin-top: 7px;
+    }
+
+    input[type="contact"]{
+        width: 90%;
+        height: 40px;
+        float: none;
+        margin-top: 7px;
+    }
+
+    textarea{
+        width: 80%;
+        height: 175px;
+        margin-top: 15px;
+    }
+
+    input[type="submit"]{
+        width: 40%;
+        height: 40px;
+        font-size: 16px;
+        align-items: center;
+        margin-top: 15px;
+        padding: 0;
+    }
+
+
+    /* CopyRight Box  */
+
+    .footer{
+        width: 100%;
+        margin-top: 1px;
+    }
+
+    .footer-1{
+        width: 90%;
+        /* background-color: red; */
+        height: 80px;
+        margin: 0 auto;
+        display: block;
+        padding-top: 10px;
+    }
+    
+    .copyright{
+        width: 100%;
+        font-size: 16px;
+        text-align: center;
+        
+    }
+
+    .follow-me{
+        width: 100%;
+        text-align: center;
+        margin-top: 10px;
+        letter-spacing: 25px;
+    }
+    
+    .social-icon{
+        width: 20px;
+        font-size: 16px;
+        padding: 3px;
+    }
+
+
+}
